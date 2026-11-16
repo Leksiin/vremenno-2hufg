@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+    <head>
+        <title>LOGIN</title>
+    </head>
+    <body>
+    <form method="post" action="/login">
+        <input type="text" name="log_name" placeholder="Введите логин" required>
+        <input type="text" name="log_pass" placeholder="Введите пароль" required>
+        <button type="submit">Отправить</button>
+    </form>
+    {% if error %}
+        <h1> {{ error }} </h1>
+    {% endif %}
+    </body>
+</html>
