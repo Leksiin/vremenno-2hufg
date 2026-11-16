@@ -1,0 +1,60 @@
+:Base MMLOGIC_RUS2.HLP
+1 MMLOGIC
+2 Введение=Introduction
+2 Что такое MultiMedia Logic Simulator=What_is_a_MultiMedia_Logic_Simulator
+2 Режимы работы=Modes_of_Operation
+2 Настройка моделирования=Simulation_Setup
+2 Руководство=Tutorial
+2 Работа со страницами=Managing_Pages
+2 Основы настройки сети=Networking_Setup_Basics
+2 Форматы файлов=File_Formats
+2 Инструменты
+3 Указатель=Pointer_Tool
+3 Соединение=Wiring_Tool
+3 Узел=Node_Tool
+3 Тестер=Probe_Tool
+3 Шина=Bus_Tool
+2 Устройства
+3 Изменение параметров устройств=Changing_Device_Parameters
+3 Управляющие устройства
+4 Триггеры=FlipFlop_Device
+4 Элемент И=AND_Gate
+4 Элемент ИЛИ=OR_Gate
+4 Элемент "исключающее ИЛИ" (XOR)=XOR_Gate
+4 Элемент НЕ (инвертор)=Inverter_Gate
+4 Арифметико-логическое устройство (АЛУ)=Arithmetic_Logic_Unit_ALU_device
+4 Память=Memory_Device
+4 Мультиплексор=Multiplexer_Mux_Device
+4 Моделирование паузы=Pause_Simulator_Device
+4 Счётчик=Counter_Device
+4 Сеть=Network_Device
+4 Троичный элемент=Tristate_Gate
+4 Лента=Tapedrive_Device
+3 Устройства вывода
+4 Динамик=Buzzer_Device
+4 8-сегментный индикатор=_Segment_LED_Device
+4 Проигрыватель WAV=Sound_Wave_Device
+4 Текстовый дисплей=Ascii_Display_Device
+4 Рисунок=Bitmap_Device
+4 Корзина (вывод в никуда)=Bit_Bucket_Device
+4 Вывод в порт=Port_Out_Device
+4 Запись в файл=Write_File_Device
+4 Передатчик сигнала=Signal_Sender_Device
+4 Текст=Text
+3 Машины
+4 Робот=Robot_Device
+3 Устройства ввода
+4 Генератор импульсов=Oscilator_Device
+4 Лампочка=LED_Device
+4 Выключатель=Switch_Device
+4 Клавиатура=Keyboard_Device
+4 Цифровая клавиатура=Keypad_Device
+4 Заземление=Ground_Device
+4 Плюс (установка 1)=Plus_Device
+4 Чтение из файла=Read_File
+4 Ввод из порта=Port_In_Device
+4 Случайные данные=Random_Device
+4 Часы=Clock_Device
+4 Таймер=Timer_Device
+4 Приёмник сигнала=Signal_Receiver_Device
+4 Селектор=Select_Device
